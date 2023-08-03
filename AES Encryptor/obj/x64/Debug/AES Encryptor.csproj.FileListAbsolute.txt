@@ -1,0 +1,21 @@
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\AES_Encryptor.exe
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\AES_Encryptor.pdb
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\mscorlib.dll
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\sortkey.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\sorttbls.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\big5.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\bopomofo.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\ksc.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\prc.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\prcp.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\xjis.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\normidna.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\normnfc.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\normnfd.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\normnfkc.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\bin\x64\Debug\normnfkd.nlp
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\obj\x64\Debug\AES Encryptor.csproj.AssemblyReference.cache
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\obj\x64\Debug\AES Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\obj\x64\Debug\AES Encryptor.csproj.CopyComplete
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\obj\x64\Debug\AES_Encryptor.exe
+C:\Users\hanktam\Desktop\Tools\AES Encryptor 3\AES Encryptor\obj\x64\Debug\AES_Encryptor.pdb
